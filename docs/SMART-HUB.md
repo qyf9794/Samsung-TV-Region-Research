@@ -1,5 +1,7 @@
 # Smart Hub 国家：独立调查与验证
 
+**实机型号：三星 QA75QN85BAJXXZ 国行电视；本页 Smart Hub 调查时的固件为 `T-PTMUABC-1720.7`。** 其他型号或固件未经验证。
+
 ## 实际观察
 
 工厂 Local Set 改为 `AD_AU2` 并冷启动后，电视仍报告 `db/comss/countrycode=CN`，说明工厂地区与 Smart Hub 国家可以不同。重置 Smart Hub 后发现电视固件为 `T-PTMUABC-1720.7`，无法确定升级时间或原因；本仓库 1651.7 专用工厂脚本不适用于该固件。
