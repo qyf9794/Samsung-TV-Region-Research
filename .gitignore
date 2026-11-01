@@ -1,0 +1,28 @@
+# Device-specific or proprietary dumps
+*.bin
+*.dat
+*.rom
+*.img
+*.dump
+*.so
+*.ko
+TIFSDaemon
+webappservice
+*EEPROM备份*
+*eeprom*backup*
+*.p12
+*.pfx
+*.pem
+*.key
+
+# Build products and local artifacts
+**/obj/
+**/bin/
+**/build/
+**/deployment/
+*.dll
+*.pdb
+*.deps.json
+__pycache__/
+*.pyc
+.DS_Store

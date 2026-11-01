@@ -1,0 +1,4 @@
+{
+  global: _ZN19FCStorageBaseCommon13GetFactoryUIDEjPiii;
+  local: *;
+};
